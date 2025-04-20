@@ -10,7 +10,7 @@
 
 - X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
-- <strong>Hung, V</strong>*; Lantz, TC*; De Siqueira, MK*; Oses-Prieto, JA; Georgeson, J; Burlingame, AL; Barna, M. ``Phosphoproteomic mapping of the mammalian ribosome identifies a mammalian-specific phosphosite involved in ribosome-associated protein quality control and metabolism." \emph{In preparation.} *Denotes equal contribution.
+- [b]Hung, V[/b]*; Lantz, TC*; De Siqueira, MK*; Oses-Prieto, JA; Georgeson, J; Burlingame, AL; Barna, M. ``Phosphoproteomic mapping of the mammalian ribosome identifies a mammalian-specific phosphosite involved in ribosome-associated protein quality control and metabolism." \emph{In preparation.} *Denotes equal contribution.
 
 - <strong>Hung, V</strong>*; Susanto, TT*; Barna, M. ``Label-free ribosome-associated protein enrichment from mammalian cells by RAPIDASH." \emph{STAR Protocols, in revision.} *Denotes equal contribution.
 
