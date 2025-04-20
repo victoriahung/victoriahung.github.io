@@ -8,7 +8,7 @@
 
 - Genuth, NR; Shi, Z; Kunimoto, K; <strong>Hung, V</strong>; Xu, AF; Kerr, CH; Tiu, GC; Oses-Prieto, JA; Salomon-Shulman, REA; Axelrod, JD; Burlingame, AL; Loh, KM; Barna, M. "A stem cell roadmap of ribosome heterogeneity reveals a function for RPL10A in mesoderm production." <strong>Nat. Commun.</strong> 2022, 13: 5491.
 
-- <strong>Hung, V</strong>*; <strong> Lam, SS*</strong>; Udeshi, ND; Svinkina, T; Guzman, G; Carr, SA; Ting, AY. "Proteomic mapping of cytosol-facing outer mitochondrial and ER membranes in living human cells by proximity biotinylation." <strong>eLife</strong>. 2017, 6: e24463. *Denotes equal contribution.
+- <strong>Hung, V</strong>*; Lam, SS*; Udeshi, ND; Svinkina, T; Guzman, G; Carr, SA; Ting, AY. "Proteomic mapping of cytosol-facing outer mitochondrial and ER membranes in living human cells by proximity biotinylation." <strong>eLife</strong>. 2017, 6: e24463. *Denotes equal contribution.
 
 - <strong>Hung, V</strong>; Udeshi, ND;  Lam, SS; Loh, KH; Cox, KJ; Pedram, K; Carr, SA; Ting, AY. "Spatially-resolved proteomic mapping in living cells with the engineered peroxidase APEX2." <strong>Nat. Protoc.</strong> 2016, 11: 456-475.
 
