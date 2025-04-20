@@ -1,13 +1,23 @@
-- National Scholarship of Graduate Student, 2024.
+-Katharine McCormick Advanced Postdoctoral Scholar Fellowship, 2022
 
-- First-prize Scholarship of CUMT, 2024.
+-Leading Edge Fellow, 2020
 
-- First-prize Scholarship of CUMT, 2023.
+-Damon Runyon Postdoctoral Fellowship, 2017
 
-- Freshman Scholarship of CUMT, 2022.
+-HHMI Hanna Gray Fellow Finalist, 2017
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+-Jane Coffin Childs Memorial Fund Postdoctoral Fellowship (declined), 2017
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+-T32 Training Grant in Nonmalignant Hematology and Stem Cell Biology, 2017
 
-- First-prize Scholarship of CUMT, 2019.
+-Stanford School of Medicine Dean's Postdoctoral Fellowship, 2017
+
+-National Science Foundation Graduate Research Fellowship, 2011
+
+-MIT Wolfe Fellowship, 2011
+
+-Microbial Science Initiative Summer Undergraduate Research Fellowship, 2010
+
+-Harvard Institute for Global Health Summer Undergraduate Research Fellowship, 2009
+
+-Program for Research in Science and Engineering (PRISE) Fellowship, 2009
