@@ -4,7 +4,7 @@
 
 - Cates, KL*; <strong>Hung, V</strong>*; Barna, M. "Ribosome-associated proteins: unwRAPping ribosome heterogeneity in the 21st century." <strong>Phil. Trans. R. Soc. B</strong>. 2025, 380: 20230378. *Denotes equal contribution. Opinion article.
 
-- Susanto, TT*; <strong>Hung, V*</strong>; Levine, AG*; Chen, Y; Kerr, CH; Yoo, Y; Oses-Prieto, JA; Fromm, L; Zhang, Z; Lantz, TC; Fujii, K; Wernig, M; Burlingame, AL; Ruggero, D+; Barna, M+. "RAPIDASH: Tag-free enrichment of ribosome-associated proteins reveals composition dynamics in embryonic tissue, cancer cells, and macrophages." <strong>Mol. Cell. 2024, 84: 3545-3563.e25. *Denotes equal contribution. +Indicates co-corresponding author. <strong>Featured article</strong>.
+- Susanto, TT*; <strong>Hung, V*</strong>; Levine, AG*; Chen, Y; Kerr, CH; Yoo, Y; Oses-Prieto, JA; Fromm, L; Zhang, Z; Lantz, TC; Fujii, K; Wernig, M; Burlingame, AL; Ruggero, D+; Barna, M+. "RAPIDASH: Tag-free enrichment of ribosome-associated proteins reveals composition dynamics in embryonic tissue, cancer cells, and macrophages." <strong>Mol. Cell.</strong> 2024, 84: 3545-3563.e25. *Denotes equal contribution. +Indicates co-corresponding author. <strong>Featured article</strong>.
 
 - Genuth, NR; Shi, Z; Kunimoto, K; <strong>Hung, V</strong>; Xu, AF; Kerr, CH; Tiu, GC; Oses-Prieto, JA; Salomon-Shulman, REA; Axelrod, JD; Burlingame, AL; Loh, KM; Barna, M. "A stem cell roadmap of ribosome heterogeneity reveals a function for RPL10A in mesoderm production." <strong>Nat. Commun.</strong> 2022, 13: 5491.
 
