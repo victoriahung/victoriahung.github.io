@@ -20,11 +20,11 @@ html {
 
 .top-section {
     position: relative;
-    padding: 6rem 0;
+    padding: 3rem 0;
     background-position: center;
     background-size: cover;
     height: auto;
-	min-height: 20rem;
+	min-height: auto;
 }
 
 .top-section h2 {
