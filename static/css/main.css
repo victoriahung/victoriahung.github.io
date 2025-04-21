@@ -44,6 +44,21 @@
     background: rgba(0, 0, 0, 0.5);
 }
 
+.top-section .hero-title {
+  font-family: 'Kanit', sans-serif;
+  /* fluid between 2.5rem and 4rem */
+  font-size: clamp(2.5rem, 6vw, 4rem);
+  font-weight: 600;
+  margin-bottom: 0.25em;
+}
+
+.top-section .hero-subtitle {
+  font-family: 'Mulish', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 300;
+  line-height: 1.4;
+}
+
 h1, h2, h3, h4, h5, h6,
 .navbar-brand,
 section header h2{
@@ -61,6 +76,7 @@ section .main-body{
 }
 
 body {
+  padding-top: 4.5rem;
   font-family: 'Mulish', sans-serif;
   font-weight: 300;
   color: #333;
