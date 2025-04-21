@@ -16,14 +16,17 @@
 
 .top-section {
     position: relative;
-    padding: 10rem 0;
+    padding: 6rem 0;
     background-position: center;
     background-size: cover;
-    height: 25rem;
+    height: auto;
+	min-height: 20rem;
 }
 
 .top-section h2 {
-    font-weight: 400;
+	font-size: clamp(2rem, 5vw, 3rem);
+	line-height: 1.1;     
+	font-weight: 300; 
 }
 
 .top-section .top-section-content {
@@ -41,11 +44,14 @@
     background: rgba(0, 0, 0, 0.5);
 }
 
+h1, h2, h3, h4, h5, h6,
+.navbar-brand,
 section header h2{
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
     font-size: 2.3rem;
     line-height: 4rem;
+	font-weight: 600 !important;	
 }
 
 section .main-body{
@@ -53,6 +59,14 @@ section .main-body{
     font-weight: 200;
     line-height: 2.4rem;
 }
+
+body {
+  font-family: 'Mulish', sans-serif;
+  font-weight: 300;
+  color: #333;
+}
+
+
 
 
 .bg-gradient-primary-to-secondary-light {
