@@ -1,5 +1,3 @@
-- <strong>Hung, V*</strong>; Lantz, TC*; De Siqueira, MK*; Oses-Prieto, JA; Georgeson, J; Burlingame, AL; Barna, M. "Phosphoproteomic mapping of the mammalian ribosome identifies a mammalian-specific phosphosite involved in ribosome-associated protein quality control and metabolism." <strong>In preparation</strong>. *Denotes equal contribution.
-
 - <strong>Hung, V*</strong>; Susanto, TT*; Barna, M. "Label-free ribosome-associated protein enrichment from mammalian cells by RAPIDASH." <strong>STAR Protocols</strong>, in revision. *Denotes equal contribution.
 
 - Cates, KL*; <strong>Hung, V*</strong>; Barna, M. "Ribosome-associated proteins: unwRAPping ribosome heterogeneity in the 21st century." <strong>Phil. Trans. R. Soc. B</strong>. 2025, 380: 20230378. *Denotes equal contribution. Opinion article.
